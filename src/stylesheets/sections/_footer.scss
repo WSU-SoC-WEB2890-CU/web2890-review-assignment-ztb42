@@ -2,7 +2,6 @@
 @use '../components/mixins'as *;
 
 .footer {
-  padding-top: 1rem;
   background-color: $footer;
 }
 
@@ -34,7 +33,7 @@
       }
 
       &:hover {
-        color: rgba($secondary, .6);
+        color: rgba($primary, .8);
       }
     }
 

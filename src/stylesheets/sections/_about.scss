@@ -1,0 +1,13 @@
+@use '../custom'as *;
+@use '../components/mixins'as *;
+
+.about {
+  padding: 4rem 0;
+  background-color: $gray-200;
+
+  h2 {
+    margin: 2rem 0 1rem;
+    font-weight: 500;
+    color: $primary;
+  }
+}

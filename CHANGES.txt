@@ -1,1 +1,29 @@
-TODO: List here all the changes you made to given template to adapt it to your needs
+1: Added functionality to navbar links
+I felt that this adds a feel of legitimacy to the site and it wasn't difficult.
+
+2: Removed several unnecessary sections
+For my portfolio personally, I felt that there was just too much going on with the page, so I decided to remove a few sections, especially since I will be adding two new ones anyways.
+
+3: Changed "Services" to "Qualities"
+Services didn't seem to fit the vibe of my page. Maybe some people left it but I decided to change it to qualities that I have that employers may look for.
+
+4: Added more padding to the text inside "Qualities"
+Needed more spacing so the text wasn't getting cut off.
+
+5: Changed "Testimonials" to "Quotes"
+I don't really have any clients or specific people that I would have testimonials from, and I thought having a quotes section gave my site some more personality.
+
+6: Changed the phone number in the navbar to a contact button which opens my modal, a new section. 
+I would rather not have my phone number out there for everyone to see anyways, but I thought having a contact button in the navbar made more sense for me.
+
+7: Removed "Learn more" buttons in my Qualities section.
+I had no idea what to link them to, and they felt unnecessary, although they did look nice.
+
+8: Added a background color to the Qualities on smaller breakpoints to separate them.
+It looked confusing when you were on smaller screens and you couldn't tell what the images were supposed to correspond to.
+
+9: Changed the links at the bottom of the page to only include Github and LinkedIn.
+I just thought that would be better for me, since I don't want all my information out there for grabs. I also added real links to them so you can view my github and linkedin if you're so inclined.
+
+10: Changed the icon in the left of the navbar using Photoshop to match the colors of the rest of my theme.
+It looked really out of place before this so I took it upon myself to change the color of orange to match mine.

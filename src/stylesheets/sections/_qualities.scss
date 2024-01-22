@@ -1,0 +1,47 @@
+@use '../custom'as *;
+
+.qualities {
+  position: relative;
+  padding: 1rem 0;
+
+  &__content {
+    padding: 1rem;
+    margin-top: 0;
+
+    p {
+      font-size: 0.8rem;
+
+      @include media-breakpoint-up(lg) {
+        font-size: 1rem;
+      }
+    }
+
+    @include media-breakpoint-up(lg) {
+      margin-top: 6.5rem;
+    }
+
+    .icon {
+      font-size: 1.5rem;
+      color: $primary;
+
+      @include media-breakpoint-up(lg) {
+        font-size: 2.5rem;
+      }
+    }
+  }
+
+  &__pic {
+    max-width: 100%;
+  }
+
+  &__card {
+
+    @include media-breakpoint-down(md) {
+      background-color: rgba(#000, 0.05);
+      padding: 0 1rem;
+      border-radius: 0.625rem;
+      margin: 2rem 0;
+    }
+    
+  }
+}
